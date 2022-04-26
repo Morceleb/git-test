@@ -19,5 +19,6 @@ public class GitTest {
             result *=i;
         }
         System.out.println("10的阶乘 = " + result);
+	//pull test
     }
 }
