@@ -10,8 +10,8 @@ public class GitTest {
         System.out.println("Hello Git!");
         System.out.println("Hello GitHub!");
         System.out.println("HuaQ! the great firewall!");
-        LuXF lxj = new LuXF();
-        lxj.ningXiZhi();
+        LuXF mor = new LuXF();
+        mor.ningXiZhi();
         //测试git用文档
 	    //我都觉得害怕
         int result = 1;
