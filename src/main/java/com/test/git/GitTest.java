@@ -14,5 +14,10 @@ public class GitTest {
         lxj.ningXiZhi();
         //测试git用文档
 	    //我都觉得害怕
+        int result = 1;
+        for (int i = 1; i<=10; i++){
+            result *=i;
+        }
+        System.out.println("10! = " + result);
     }
 }
