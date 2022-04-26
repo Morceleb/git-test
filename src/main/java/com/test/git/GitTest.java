@@ -18,6 +18,6 @@ public class GitTest {
         for (int i = 1; i<=10; i++){
             result *=i;
         }
-        System.out.println("10! = " + result);
+        System.out.println("10的阶乘 = " + result);
     }
 }
